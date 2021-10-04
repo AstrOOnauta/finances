@@ -20,7 +20,7 @@ export const SummaryContent = styled.div`
     background-color: #fff;
     border-radius: .25rem;
     padding: 1rem 1rem 2rem 1rem;
-    width: 30%;
+    width: 32%;
 
     animation: ${show} .8s;
 `
@@ -39,4 +39,5 @@ export const SummaryHeader = styled.div`
 
 export const SummaryBody = styled.div`
     padding: 1rem 0 0 0;
+    word-break: break-all;
 `

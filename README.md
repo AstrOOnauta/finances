@@ -19,6 +19,7 @@ Aplicação de controle financeiro feita para cadastrar transações de entrada 
     - Hooks
     - localStorage
     - React Modal
+    - React-Toastify
 <hr>
 
 ## Instalação
